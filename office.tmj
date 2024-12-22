@@ -573,6 +573,24 @@
                  "width":190.788,
                  "x":33.7853313069909,
                  "y":482.566448328267
+                }, 
+                {
+                 "height":52.278400455927,
+                 "id":35,
+                 "name":"welcome text",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Abril Fatface",
+                     "pixelsize":24,
+                     "text":"Welcome to the Dataviz virtual office",
+                     "wrap":true
+                    },
+                 "type":"text",
+                 "visible":true,
+                 "width":425.227963525836,
+                 "x":482.679165083586,
+                 "y":751.976301291793
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -665,7 +683,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
