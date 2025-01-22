@@ -528,7 +528,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Libros-del-grupo-8abe8c2d3902408ba7a4ceb20a236420"
+                         "value":"https:\/\/bscdata.notion.site\/Libros-del-grupo-8abe8c2d3902408ba7a4ceb20a236420?pvs=4"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -581,16 +581,16 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Abril Fatface",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
-                     "text":"Welcome to the Dataviz virtual office",
+                     "text":"Welcome to the Dataviz virtual office  v1.1",
                      "wrap":true
                     },
                  "type":"text",
                  "visible":true,
-                 "width":425.227963525836,
-                 "x":482.679165083586,
-                 "y":751.976301291793
+                 "width":467.781155015198,
+                 "x":470.52111037234,
+                 "y":756.53557180851
                 }],
          "opacity":1,
          "type":"objectgroup",
