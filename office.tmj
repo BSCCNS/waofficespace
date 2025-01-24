@@ -528,7 +528,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/bscdata.notion.site\/Libros-del-grupo-8abe8c2d3902408ba7a4ceb20a236420?pvs=4"
+                         "value":"https:\/\/v2-embednotion.com\/8abe8c2d3902408ba7a4ceb20a236420"
                         }, 
                         {
                          "name":"zoom_margin",
